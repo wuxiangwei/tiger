@@ -1,0 +1,12 @@
+menu:
+  Home: /
+  Archives: /archives
+  About: /about
+
+archive_date_format: MMM DD
+fancybox: true
+
+duoshuo_shortname: shannon
+
+google_analytics:
+favicon: /favicon.ico
