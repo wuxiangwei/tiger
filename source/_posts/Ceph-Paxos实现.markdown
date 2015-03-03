@@ -1,4 +1,4 @@
-title: Ceph对Paxos算法的实现
+title: Ceph的Paxos算法实现
 date: 2014-10-08 20:07:09
 categories: ceph
 tags: [ceph,paxos]
