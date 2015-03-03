@@ -1,4 +1,4 @@
-title: "Linux命令: ntp时间同步"
+title: "ntp时间同步"
 date: 2014-12-01 19:40:45
 categories: linux
 tags: 

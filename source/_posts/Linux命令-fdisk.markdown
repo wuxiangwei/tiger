@@ -1,4 +1,4 @@
-title: "Linux命令:fdisk"
+title: "fdisk磁盘分区"
 date: 2014-09-15 18:26:31
 categories: linux
 tags: 

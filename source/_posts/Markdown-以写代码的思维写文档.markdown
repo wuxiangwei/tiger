@@ -1,4 +1,4 @@
-title: "Markdown:以写代码的思维写文档"
+title: "Markdown 写代码那样写文档"
 date: 2014-08-07 20:23:29 
 categories: markdown
 tags: markdown
