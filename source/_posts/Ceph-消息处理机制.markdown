@@ -1,7 +1,7 @@
-title: "Ceph:消息处理机制"
+title: "Ceph消息处理"
 date: 2014-10-09 21:10:31
 categories: ceph
-tags:
+tags: ceph
 ---
 
 

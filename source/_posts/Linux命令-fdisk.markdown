@@ -1,7 +1,7 @@
 title: "Linux命令:fdisk"
 date: 2014-09-15 18:26:31
 categories: linux
-tags: fdisk
+tags: 
 ---
 
 fdisk命令能够用来对磁盘进行分区，查看磁盘的分区信息。

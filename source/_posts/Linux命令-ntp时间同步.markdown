@@ -1,7 +1,7 @@
 title: "Linux命令: ntp时间同步"
 date: 2014-12-01 19:40:45
 categories: linux
-tags: ntp
+tags: 
 ---
 
 同步时间是分布式系统中最基础的要求，不论是openstack还是ceph都必须先让节点间的时间保持一致。
