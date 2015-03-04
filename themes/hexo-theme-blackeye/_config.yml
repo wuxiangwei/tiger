@@ -1,6 +1,6 @@
 menu:
   技术: /archives
-  摄影: /photos
+  阅读: /reading
   关于: /about
 
 archive_date_format: MMM DD
@@ -12,7 +12,8 @@ widgets:
   - category
 
 blogrolls:
-  - 原博客地址: http://www.cnblogs.com/shanno 
+  - 原CSDN博客地址: http://blog.csdn.net/shanno
+  - 原CNBLOG博客地址: http://www.cnblogs.com/shanno 
 
 search: false
 
