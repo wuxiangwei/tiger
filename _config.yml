@@ -36,7 +36,7 @@ post_asset_folder: false
 relative_link: false
 highlight:
   enable: true
-  line_number: true
+  line_number: false
   tab_replace:
 
 # Category & Tag
@@ -57,7 +57,7 @@ tag: 1
 ## You can customize the logger format as defined in
 ## http://www.senchalabs.org/connect/logger.html
 port: 4000
-server_ip: 192.168.7.12
+server_ip: 192.168.1.103
 logger: false
 logger_format: dev
 

@@ -1,9 +1,5 @@
 layout: photo
-photos:
- - http://7vzu17.com1.z0.glb.clouddn.com/h3c浦沿.jpg
 ---
-
-> 求一句搞逼格的话
 
 ## 个人信息
 
