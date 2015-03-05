@@ -88,5 +88,8 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: github
-  repository: https://github.com/shannowu/shannowu.github.com.git
-  branch: master
+  # repository: https://github.com/shannowu/shannowu.github.com.git
+  repository: git@gitcafe.com:shannon/shannon.git
+  # branch: master
+  branch: gitcafe-pages
+

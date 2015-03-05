@@ -41,12 +41,30 @@ Hexo添加多说评论时需要提供[多说](http://www.duoshuo.com)账号的sh
 
 ## Markdown注意事项
 
-1. 引用```内部不要有空行，否则显示有问题。
+1. 引用内部不要有空行，否则显示有问题。
 2. 超链接时，网址一定要以Http打头，不能以www开始。
+
+## 部署到gitcafe
+
+### 生成ssh公钥
+```
+ssh-keygen -t rsa -C shanno@yeah.net -f ~/.ssh/gitcafe
+```
+执行上面的命令在~/.ssh目录下生成gitcafe、gitcafe.pub两个文件，它们分别代表私钥和公钥文件。
+
+### 创建gitcafe-pages分支
+
+```
+root@taurus:~/test/tiger/.deploy# git remote add origin 'git@gitcafe.com:shannon/shannon.git
+root@taurus:~/test/tiger/.deploy# git remote add origin 'git@gitcafe.com:shannon/shannon.git'
+root@taurus:~/test/tiger/.deploy# git push -u origin gitcafe-pages 
+```
 
 ## 参考资料
 
 1. [hexo你的博客](http://ibruce.info/2013/11/22/hexo-your-blog/)
 2. [google字库导致hexo modernist首页加载变慢](http://ibruce.info/2013/12/03/fonts-googleapis-lead-to-slow/)
 3. [windows下git bash显示中文](http://blog.csdn.net/self001/article/details/7337182)
+4. [如何同时使用多个公钥](https://gitcafe.com/GitCafe/Help/wiki/%E5%A6%82%E4%BD%95%E5%90%8C%E6%97%B6%E4%BD%BF%E7%94%A8%E5%A4%9A%E4%B8%AA%E5%85%AC%E7%A7%98%E9%92%A5)
+5. [如何将托管在github上的hexo博客转到gitcafe](http://blog.maxwi.com/2014/03/19/hexo-github-to-gitcafe/)
 
