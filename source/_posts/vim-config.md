@@ -4,7 +4,7 @@ categories: vim
 tags: vim
 ---
 
-我的vim配置，特点是简单不花哨，尽量使用默认按键。
+我的vim配置，特点是简单不花哨，尽量使用默认快捷键。
 
 <!--more-->
 
@@ -77,5 +77,28 @@ inoremap { {}<ESC>i
 colorscheme peachpuff
 
 ```
+
+
+### 快捷键
+
+
+gg
+G
+/
+?
+vimgrep
+copen
+c-n
+c-p
+fx
+
+dd
+dw
+dl
+
+i
+I
+a
+A
 
 
