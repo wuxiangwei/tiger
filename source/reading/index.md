@@ -19,6 +19,14 @@ photos:
 
 博大精深的一本书，怕几年也看不完。随着时间流逝，留下黑色笔迹的页面也越来越多.....
 
+![代码的未来](http://7vzu17.com1.z0.glb.clouddn.com/reading/dmdwl.jpg)
+
+![Git权威指南](http://7vzu17.com1.z0.glb.clouddn.com/reading/gqwzn.jpg)
+
+![Python Cookbook](http://7vzu17.com1.z0.glb.clouddn.com/reading/pc.jpg)
+
+![大话存储II](http://7vzu17.com1.z0.glb.clouddn.com/reading/dhcc2.jpg)
+
 ![敏捷软件开发](http://7vzu17.com1.z0.glb.clouddn.com/reading/mj.jpg)
 
 比较简单，当作《设计模式》的入门，配合着看。
@@ -26,3 +34,5 @@ photos:
 ![设计模式](http://7vzu17.com1.z0.glb.clouddn.com/reading/dp.jpg)
 
 这是离开学校后买的第一本技术书。那时候，刚毕业，早晨7点公司还没人来的时候一个人静静地看一个模式，坚持到离开公司，已经反复看了多次。真正修炼内功的好书。
+
+注：以上书的封面图片全部来自[豆瓣](http://www.douban.com/)读书，感谢豆瓣。
