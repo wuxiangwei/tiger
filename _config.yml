@@ -57,7 +57,7 @@ tag: 1
 ## You can customize the logger format as defined in
 ## http://www.senchalabs.org/connect/logger.html
 port: 4000
-server_ip: 192.168.7.12
+server_ip: 192.168.1.103
 logger: false
 logger_format: dev
 
@@ -80,7 +80,8 @@ disqus_shortname:
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
 # theme: hexo-theme-modernist
-theme: hexo-theme-blackeye
+theme: hexo-theme-tiger
+# theme: hexo-theme-blackeye
 exclude_generator:
 
 # Deployment
